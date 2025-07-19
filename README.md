@@ -78,13 +78,13 @@ Algorithm/
 ```
 
 
-## 🧪 Tools & Libraries
+## 🛠️ Tools & Libraries
 
 * **Python 3.7+**
 * **scikit-learn** – Machine learning models & utilities
 * **NumPy** – Numerical operations
 * **Matplotlib** – Data visualization
 
-## 🧪 License
+## 📄 License
 
 This project is released under the [MIT License](LICENSE).
